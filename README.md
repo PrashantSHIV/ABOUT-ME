@@ -13,16 +13,18 @@
   <a href="https://github.com/PrashantSHIV"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+<br/>
+
 <!-- ================= WHO AM I (NO TABLE / NO BORDER) ================= -->
 <img align="left" width="280" src="https://i.pinimg.com/1200x/c5/b0/96/c5b09636f374710f338aa164d063243d.jpg" style="border-radius:12px; margin-right:20px;"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=26&duration=1&pause=100000&color=888888&vCenter=true&width=300&height=40&lines=Who+Am+I%3F;&repeat=false"/>
 
-I am a Full Stack Software Developer with a B.Tech in Computer Science & Engineering (AI) from IIMT College Of Engineering[cite: 1]. I have hands-on experience designing, building, and deploying scalable SaaS applications and CRMs[cite: 1].
+I am a Full Stack Software Developer with a B.Tech in Computer Science & Engineering (AI) from IIMT College Of Engineering. I have hands-on experience designing, building, and deploying scalable SaaS applications and CRMs.
 
-During my tenure at Triostack Technologies, I built end-to-end MERN-stack SaaS products from scratch, including a multi-tenant CRM (TrioCRM) and a global trade network (HSCodes)[cite: 1]. My core expertise lies in MongoDB, Express.js, React.js, and Node.js, alongside leveraging tools like Redis and RabbitMQ to handle complex background tasks and real-time communication systems[cite: 1].
+During my tenure at Triostack Technologies, I built end-to-end MERN-stack SaaS products from scratch, including a multi-tenant CRM (TrioCRM) and a global trade network (HSCodes). My core expertise lies in MongoDB, Express.js, React.js, and Node.js, alongside leveraging tools like Redis and RabbitMQ to handle complex background tasks and real-time communication systems.
 
-I am highly adept at complex API integrations and architecting multi-tenant backend ecosystems[cite: 1]. Currently, I am seeking a Full Stack Engineer role where I can apply my proven experience in shipping production SaaS platforms end-to-end, from database architecture to final deployment[cite: 1].
+I am highly adept at complex API integrations and architecting multi-tenant backend ecosystems. Currently, I am seeking a Full Stack Engineer role where I can apply my proven experience in shipping production SaaS platforms end-to-end, from database architecture to final deployment.
 
 <br clear="left"/>
 
@@ -135,25 +137,29 @@ I am highly adept at complex API integrations and architecting multi-tenant back
 **Language:** Golang · WebSockets
 
 <!-- ================= GITHUB STATS ================= -->
-### 📊 GitHub Stats
+<br/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=26&duration=1&pause=100000&color=888888&center=true&vCenter=true&width=400&height=40&lines=GitHub+Stats;&repeat=false"/>
+</p>
+<hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrashantSHIV&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSHIV&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PrashantSHIV&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSHIV&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSHIV&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSHIV&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/PrashantSHIV/PrashantSHIV/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/PrashantSHIV/PrashantSHIV/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 </p>
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrashantSHIV&style=for-the-badge&color=8A2BE2" />
+  <img src="https://komarev.com/ghpvc/?username=PrashantSHIV&style=for-the-badge&color=8A2BE2" alt="Profile Views" />
 </p>
 
 <p align="center">
