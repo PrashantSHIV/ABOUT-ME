@@ -144,12 +144,12 @@ I am highly adept at complex API integrations and architecting multi-tenant back
 <hr/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PrashantSHIV&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=PrashantSHIV&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" height="165" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashantSHIV&theme=radical&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashantSHIV&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PrashantSHIV&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
